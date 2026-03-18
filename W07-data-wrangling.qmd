@@ -4,7 +4,6 @@ author: "Briana Maximino"
 date: "2026-03-16"
 format: 
     html:
-        theme: cosmo
         toc: true
         toc-depth: 3
         toc-location: right-body
